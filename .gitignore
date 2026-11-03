@@ -1309,8 +1309,8 @@
 # /rom/filesys/AmberRAM/
 /rom/filesys/AmberRAM/mmakefile
 
-# /rom/filesys/CDVDFS/src/
-/rom/filesys/CDVDFS/src/mmakefile
+# /rom/filesys/odfs/
+/rom/filesys/odfs/mmakefile
 
 # /rom/filesys/SFS/
 /rom/filesys/SFS/mmakefile
